@@ -44,8 +44,7 @@ These algorithms are trained using TF-IDF features to classify messages into Spa
 ## 👥 Team Members
 
 1. Sachin Prasad
-2. Sachin Brijnath Prasad
-3. Srushti Sambhaji Patil
+2. Srushti Patil
 
 ## 🔗 Project Repository
 
